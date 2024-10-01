@@ -1,0 +1,14 @@
+C:\Users\GladStone\Desktop\MikhailovProject\bin\Debug\net8.0\MikhailovProject.exe
+C:\Users\GladStone\Desktop\MikhailovProject\bin\Debug\net8.0\MikhailovProject.deps.json
+C:\Users\GladStone\Desktop\MikhailovProject\bin\Debug\net8.0\MikhailovProject.runtimeconfig.json
+C:\Users\GladStone\Desktop\MikhailovProject\bin\Debug\net8.0\MikhailovProject.dll
+C:\Users\GladStone\Desktop\MikhailovProject\bin\Debug\net8.0\MikhailovProject.pdb
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.AssemblyInfoInputs.cache
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.AssemblyInfo.cs
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.csproj.CoreCompileInputs.cache
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.dll
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\refint\MikhailovProject.dll
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.pdb
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\MikhailovProject.genruntimeconfig.cache
+C:\Users\GladStone\Desktop\MikhailovProject\obj\Debug\net8.0\ref\MikhailovProject.dll

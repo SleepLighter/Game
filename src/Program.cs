@@ -116,14 +116,6 @@
                 string input = Console.ReadLine();
                 
                 attempts++;
-                if (attempts == 1)
-                {
-                    Console.WriteLine($"{Playername},поддается");
-                }    
-                if (attempts == 2)
-                {
-                    Console.WriteLine($"{Playername},еще чуть-чуть");
-                }
 
                 if (attempts == 3)
                 {
@@ -133,11 +125,9 @@
                 }
                 else
                 {
-                    Console.WriteLine($"{Playername},ноу");
+                    
+                    attempts++;
                 }
-
-
-
 
             }
         }

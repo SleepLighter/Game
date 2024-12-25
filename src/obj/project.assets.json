@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GladStone\\.nuget\\packages\\": {}
+    "C:\\Users\\zekam\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GladStone\\Desktop\\MikhailovProject\\MikhailovProject.csproj",
+      "projectUniqueName": "C:\\Users\\zekam\\Desktop\\Study\\Game\\src\\MikhailovProject.csproj",
       "projectName": "MikhailovProject",
-      "projectPath": "C:\\Users\\GladStone\\Desktop\\MikhailovProject\\MikhailovProject.csproj",
-      "packagesPath": "C:\\Users\\GladStone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GladStone\\Desktop\\MikhailovProject\\obj\\",
+      "projectPath": "C:\\Users\\zekam\\Desktop\\Study\\Game\\src\\MikhailovProject.csproj",
+      "packagesPath": "C:\\Users\\zekam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zekam\\Desktop\\Study\\Game\\src\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\GladStone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zekam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -46,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -67,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GladStone\\Desktop\\MikhailovProject\\",
+  "WorkspaceRootPath": "C:\\Users\\zekam\\Desktop\\Study\\Game\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55E6AD32-EB62-494A-9170-7589B0E65CAD}|MikhailovProject.csproj|c:\\users\\gladstone\\desktop\\mikhailovproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55E6AD32-EB62-494A-9170-7589B0E65CAD}|MikhailovProject.csproj|c:\\users\\zekam\\desktop\\study\\game\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55E6AD32-EB62-494A-9170-7589B0E65CAD}|MikhailovProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GladStone\\Desktop\\MikhailovProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zekam\\Desktop\\Study\\Game\\src\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\GladStone\\Desktop\\MikhailovProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowBkAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\zekam\\Desktop\\Study\\Game\\src\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwH8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T21:06:37.6Z",
               "EditorCaption": ""

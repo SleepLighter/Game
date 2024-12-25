@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MikhailovProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f769ee29d9e374db03515e937277578271d5f31")]
 [assembly: System.Reflection.AssemblyProductAttribute("MikhailovProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MikhailovProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
